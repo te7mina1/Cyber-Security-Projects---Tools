@@ -7,8 +7,5 @@ A collection of cybersecurity tools created for academic projects and continued 
 | Tool | Description |
 | --- | --- |
 | [Gh0st Link — ShrinkMe](Gh0st%20Link%20-%20ShrinkMe/) | Desktop application for shortening URLs with TinyURL. |
-
-## Adding a tool
-
-Create a folder for the tool, include its source and a tool-specific `README.md`, then add it to the table above.
+| [Forensics Bench](https://github.com/te7mina1/Cyber-Security-Projects---Tools/tree/main/forensics_bench) | A desktop file examination and handling workbench |
 
